@@ -1,2 +1,2 @@
 # gestion-caracter-frontend
-Application de gestion de caractère partie frontend,  développer sous spring boot.
+Application d'animation de caractères partie frontend,  développer sous spring boot.
